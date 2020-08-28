@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">About ME</string>
+    <string name="name">Alona Nizhehorodova</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Alona
+        \nPenatibus odio facilisi tempus. Nascetur ultrices ac dignissim convallis.
+        \n\n\Vulputate ligula ad potenti molestie accumsan semper id sodales proin in mattis. Nec scelerisque rhoncus aliquet vitae fusce ornare tincidunt maecenas.
+        \nImperdiet dictumst; sem montes! Mattis euismod mattis libero proin nunc inceptos dignissim; class platea fusce.
+        \n\nMaecenas adipiscing eu libero molestie habitasse iaculis montes per. Posuere arcu mauris aptent ultrices nisl integer nec sed aliquet dictumst duis convallis.
+        \nFacilisis, posuere quisque tortor sociosqu sapien dui ad litora elementum ullamcorper mattis! Quisque nisl ligula laoreet ut mattis aliquet, gravida ultrices.
+        \nAccumsan elit convallis eleifend mauris blandit ac est torquent quam?
+        \n\nAugue lobortis mus sociosqu. Magna nascetur blandit aliquet habitant sit. Sociis viverra dui risus. Interdum blandit habitant nostra vivamus nunc facilisis volutpat varius sem hendrerit euismod posuere!
+        \nDuis dui morbi odio interdum ut habitant sagittis. Dignissim turpis lobortis dapibus luctus nam? Luctus felis purus.
+        \nAccumsan elit convallis eleifend mauris blandit ac est torquent quam?
+                </string>
+    <string name="avatar">avatar</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
